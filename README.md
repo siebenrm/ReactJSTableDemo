@@ -1,4 +1,12 @@
 # ReactJSTableDemo
-A ReactJS Table Row Editing Demo
+A ReactJS Table Demo
 
-Check it out: http://reactjstabledemo.azurewebsites.net
+To build and run locally, issue the following commands in the project's root directory 
+(Assumes Node.js and npm are installed):
+    - npm install
+    - npm start
+
+Open http://localhost:3000 in a browser
+
+Note: Before viewing in a browser, wait for both the application to start and 
+the bundle.js to be created by webpack
