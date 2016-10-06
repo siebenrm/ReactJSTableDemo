@@ -1,7 +1,7 @@
 # ReactJSTableDemo
 A ReactJS Table Demo
 
-To build and run locally, issue the following commands in the project's root directory (Assumes Node.js is installed):
+To build and run locally, issue the following commands in the project's root directory (assumes Node.js is installed):
 - npm install
 - npm start
 
