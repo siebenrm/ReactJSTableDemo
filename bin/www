@@ -32,7 +32,11 @@ var compiler = webpack({
     }
 });
 
-compiler.run(function(err, stats) {
+compiler.watch({ // watch options:
+    aggregateTimeout: 300, // wait so long for more changes
+    poll: true // use polling instead of native watchers
+    // pass a number to set the polling interval
+}, function(err, stats) {
 });
 
 
