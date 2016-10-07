@@ -3,7 +3,7 @@ A ReactJS Table Demo
 
 To build and run locally, issue the following commands in the project's root directory (assumes Node.js is installed):
 - npm install
-- npm start
+- npm run start-dev
 
 Open http://localhost:3000 in a browser
 
